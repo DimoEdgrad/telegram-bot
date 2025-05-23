@@ -1,0 +1,13 @@
+{
+  "start": "Hello! 👋\nWelcome to the subscription manager bot.",
+  "help": "/add [id] [days]\n/del [id]\n/list\n/status\n/lang fa|en\n/extend [id] [days]",
+  "added": "✅ User added successfully.",
+  "deleted": "❌ User deleted.",
+  "extended": "🔁 Subscription extended.",
+  "user_list": "📋 User list:",
+  "expired": "⛔ Your subscription has expired.",
+  "your_status": "Your subscription expires on",
+  "expire_soon": "⚠️ Less than 2 days left!",
+  "not_found": "No active subscription found.",
+  "lang_set": "Language preference updated."
+}

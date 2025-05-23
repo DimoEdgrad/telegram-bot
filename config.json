@@ -1,0 +1,10 @@
+{
+  "bot_token": "6489239711:AAH0I35-x_4tMlQYddu6Hbe9EaW4sfLpbuA",
+  "admin_ids": [
+    186294875,
+    123456789,
+    987654321
+  ],
+  "default_lang": "fa",
+  "report_email": "admin@example.com"
+}
